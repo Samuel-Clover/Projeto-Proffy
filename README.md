@@ -1,5 +1,5 @@
 # Projeto-Proffy
-Projeto feito exclusivo para freelancers online
+Projeto feito  feito para freelancers
 
 install dependencias
 
