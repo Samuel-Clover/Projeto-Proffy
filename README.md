@@ -1,5 +1,5 @@
 # Projeto-Proffy
-Projeto feito  feito para freelancers
+Projeto feito para freelancers
 
 install dependencias
 
